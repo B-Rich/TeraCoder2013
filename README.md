@@ -11,13 +11,13 @@ TeraCoder 2013 で行われた問題を Bash で記述したサンプルコー�
 
 ## Requirement
 
-`OS` Mac OS X
+`OS` Mac OS X  
 `Bash` GNU bash, version 3.2.53(1)-release
 
 ## Usage
 
     $ cd <Probrem Directory>
-    $ cat input.txt > bash source.sh
+    $ cat input.txt | bash source.sh
 
 ## Author
 
